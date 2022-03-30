@@ -2,7 +2,7 @@
 
 ## Pagina utilizando o **Bootstrap** como framework
 
-Utilizando as seguintes as seguintes tecnologias :sunglasses:
+Utilizando as seguintes tecnologias :sunglasses:
 
 * HTML5  
 * CSS
